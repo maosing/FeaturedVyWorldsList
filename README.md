@@ -61,7 +61,7 @@ Welcome to my list of featured Vy Worlds. These are all the contest winners so f
   - @Maos | Vy Mod En. for “Wheel Of Doom”
   - 🔗 https://play.vyworlds.com/upload/d7842fec_d/index.html?level=remote:6e84c3ef_WheelOfDoom_1646594236
 - 🏅 5th place goes to @Gluthor for “Meat Grinder”
-  🔗 https://play.vyworlds.com/upload/d7842fec_d/index.html?level=remote:d9a7e9f4_MeatGrinder_1646514916
+  - 🔗 https://play.vyworlds.com/upload/d7842fec_d/index.html?level=remote:d9a7e9f4_MeatGrinder_1646514916
 
 ## n00b racer event! 🏁  — 28/02/2022
 - 🥇 1st place goes to @boredmomma | Vy Mod for “Boring Noobs Race”
