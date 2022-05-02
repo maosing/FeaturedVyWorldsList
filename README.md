@@ -2,6 +2,15 @@
 
 Welcome to my list of featured Vy Worlds. These are all the contest winners so far in Vy Worlds. I will continue to update this list until I figured out a good way to show them on https://sharedvyworlds.vercel.app.
 
+## SKELLY ROCK N00B PLATFORM BUILD EVENT 🤘 — 28/04/2022
+
+- 🥇 1st place goes to @Demu  the Red  for  "Hoodie Skelly Gang"
+  - 🔗 https://play.vyworlds.com/upload/6b538724_d/index.html?level=remote:76dfc7bf_-HoodieSkelly%20Ga_1650983131
+- 🥈 2nd place goes to @Stromm  for “Adventure Park”
+  - 🔗 https://play.vyworlds.com/upload/6b538724_d/index.html?level=remote:3d36d825_MusicLessons_1650978146
+- 🥉 3rd place goes to @Gluthor  for “Skelly Crypt”
+  - 🔗 https://play.vyworlds.com/upload/6b538724_d/index.html?level=remote:d9a7e9f4_SkellyCrypt_1650872703
+
 ## Collectathon Event! 🪙 — 21/04/2022
 - 🥇 1st place goes to @Gandalf the Red  for  “Battle Stadium”
   - 🔗 https://play.vyworlds.com/upload/6b538724_d/index.html?level=remote:af397170_BattleStadium_1650351159
