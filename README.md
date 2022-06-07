@@ -2,13 +2,22 @@
 
 Welcome to my list of featured Vy Worlds. These are all the contest winners so far in Vy Worlds. I will continue to update this list until I figured out a good way to show them on https://sharedvyworlds.vercel.app.
 
+## Let's Play Build Event 🎉 — 06/06/2022
+
+- 🥇 1st place goes to @marketa for "Many Ways"
+ - 🔗 https://play.vyworlds.com/upload/680ce188_d/index.html?level=remote:6b086889_ManyWays_1654164897
+- 🥈 2nd place goes to @TJay_Sez|| Vy Worlds for "Capitol of Sanctuary"
+ - 🔗 https://play.vyworlds.com/upload/680ce188_d/index.html?level=remote:f829c82b_Capitolof%20Sanctu_1654176800
+- 🥉 3rd place goes to @Stromm for "Don't Fall Guys"
+ - 🔗 https://play.vyworlds.com/upload/680ce188_d/index.html?level=remote:3d36d825_Don%27tFall%20Guys_1654069576
+
 ## SKELLY ROCK N00B PLATFORM BUILD EVENT 🤘 — 28/04/2022
 
-- 🥇 1st place goes to @Demu  the Red  for  "Hoodie Skelly Gang"
+- 🥇 1st place goes to @Demu for  "Hoodie Skelly Gang"
   - 🔗 https://play.vyworlds.com/upload/6b538724_d/index.html?level=remote:76dfc7bf_-HoodieSkelly%20Ga_1650983131
-- 🥈 2nd place goes to @Stromm  for “Adventure Park”
+- 🥈 2nd place goes to @Stromm  for "Adventure Park"
   - 🔗 https://play.vyworlds.com/upload/6b538724_d/index.html?level=remote:3d36d825_MusicLessons_1650978146
-- 🥉 3rd place goes to @Gluthor  for “Skelly Crypt”
+- 🥉 3rd place goes to @Gluthor  for "Skelly Crypt"
   - 🔗 https://play.vyworlds.com/upload/6b538724_d/index.html?level=remote:d9a7e9f4_SkellyCrypt_1650872703
 
 ## Collectathon Event! 🪙 — 21/04/2022
