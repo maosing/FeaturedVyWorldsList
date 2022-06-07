@@ -5,11 +5,11 @@ Welcome to my list of featured Vy Worlds. These are all the contest winners so f
 ## Let's Play Build Event 🎉 — 06/06/2022
 
 - 🥇 1st place goes to @marketa for "Many Ways"
- - 🔗 https://play.vyworlds.com/upload/680ce188_d/index.html?level=remote:6b086889_ManyWays_1654164897
+  - 🔗 https://play.vyworlds.com/upload/680ce188_d/index.html?level=remote:6b086889_ManyWays_1654164897
 - 🥈 2nd place goes to @TJay_Sez|| Vy Worlds for "Capitol of Sanctuary"
- - 🔗 https://play.vyworlds.com/upload/680ce188_d/index.html?level=remote:f829c82b_Capitolof%20Sanctu_1654176800
+  - 🔗 https://play.vyworlds.com/upload/680ce188_d/index.html?level=remote:f829c82b_Capitolof%20Sanctu_1654176800
 - 🥉 3rd place goes to @Stromm for "Don't Fall Guys"
- - 🔗 https://play.vyworlds.com/upload/680ce188_d/index.html?level=remote:3d36d825_Don%27tFall%20Guys_1654069576
+  - 🔗 https://play.vyworlds.com/upload/680ce188_d/index.html?level=remote:3d36d825_Don%27tFall%20Guys_1654069576
 
 ## SKELLY ROCK N00B PLATFORM BUILD EVENT 🤘 — 28/04/2022
 
