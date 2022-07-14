@@ -2,6 +2,15 @@
 
 Welcome to my list of featured Vy Worlds. These are all the contest winners so far in Vy Worlds. I will continue to update this list until I figured out a good way to show them on https://sharedvyworlds.vercel.app.
 
+## Let's Play Build Event 🎉 — 06/07/2022
+
+- 🥇 1st place goes to @boredmomma | Vy Mod  for "Boring Slider"
+  - 🔗 https://play.vyworlds.com/upload/d6096a760_d/index.html?level=remote:8e85e4df_BoringSlider_1655998786
+- 🥈 2nd place goes to @CopperPitch for "Short Circuit"
+  - 🔗  https://play.vyworlds.com/upload/d6096a760_d/index.html?level=remote:d6c080c1_ShortCircuit_1655870337
+- 🥉 3rd place goes to @Gluthor for "Toxic Maze"
+  - 🔗 https://play.vyworlds.com/upload/d6096a760_d/index.html?level=remote:d9a7e9f4_ToxicMaze_1655967160
+
 ## Let's Play Build Event 🎉 — 06/06/2022
 
 - 🥇 1st place goes to @marketa for "Many Ways"
