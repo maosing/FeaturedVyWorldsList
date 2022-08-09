@@ -2,6 +2,16 @@
 
 Welcome to my list of featured Vy Worlds. These are all the contest winners so far in Vy Worlds. I will continue to update this list until I figured out a good way to show them on https://sharedvyworlds.vercel.app.
 
+
+## Let's Play Build Event 🎉 — 08/08/2022
+
+- 🥇 1st place goes to @boredmomma | Vy Mod  for "Boring Ground"
+  - 🔗 https://play.vyworlds.com/upload/86020d941_d/index.html?level=remote:8e85e4df_BoringGround%20Zer_1659268041
+- 🥇 1st place goes to @kirizakishunde for "Central Park"
+  - 🔗  https://play.vyworlds.com/upload/86020d941_d/index.html?level=remote:74838816_CentralPark_1659283544
+- 🥉 3rd place goes to @Conrad | Vy Mobile Master for "Vy Free for All"
+  - 🔗 https://play.vyworlds.com/upload/1ea8f7036_d/index.html?level=remote:56979740_VyFree%20for%20all%20_1659045605
+
 ## Let's Play Build Event 🎉 — 06/07/2022
 
 - 🥇 1st place goes to @boredmomma | Vy Mod  for "Boring Slider"
